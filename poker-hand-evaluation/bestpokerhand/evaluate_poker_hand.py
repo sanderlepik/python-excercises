@@ -1,3 +1,4 @@
+'''Script to evaluate poker hands'''
 import re
 
 
